@@ -1,3 +1,5 @@
 LINUXNetworkProgramming-version2.pdf filter=lfs diff=lfs merge=lfs -text
 矩阵分析与应用[[:space:]]-[[:space:]]第2版[[:space:]]-[[:space:]]张贤达.pdf filter=lfs diff=lfs merge=lfs -text
 download.eeworld.com.cn_自动驾驶与机器人中的SLAM技术：从理论到实践[[:space:]](高翔)[[:space:]].pdf filter=lfs diff=lfs merge=lfs -text
+《视觉惯性SLAM理论与源码解析》PDF+程小六.pdf filter=lfs diff=lfs merge=lfs -text
+线性代数[[:space:]]-[[:space:]]同济大学数学系.pdf filter=lfs diff=lfs merge=lfs -text
